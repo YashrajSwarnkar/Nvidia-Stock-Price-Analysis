@@ -20,6 +20,6 @@
    - Garch Model
    - Kalman Filter Model
    - Random Forest Model
-   - Long Short Term Memory (RNN)
+   - Long Short Term Memory (Recurrent Neural Network)
   
   6. Backtesting and risk analysis
